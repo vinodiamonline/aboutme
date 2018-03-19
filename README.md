@@ -1,9 +1,9 @@
 Vinod Kumar
 ==============
-Sr Manager, Adobe Cloud Platform.
-Adobe Systems.
+Working as Sr Manager in Adobe Cloud Platform Team at Adobe Systems, to build services for Orchestration, Data Warehouse Query and Data Quality.
 
-Working in platform engineering team which is responsible for Adobe Cloud Orchestration, ETL and Experience Data Warehouse.
-
-
+Skills:
+- Concepts : #Data Quality, #Compute, #ETL, #RASP, #APM
+- Tools & Technologies : #ApacheSpark, #Azurepowerbi, #OpenTSDB, #Druid, #NewRelic
+- PaaS : #AWS, #Azure
 
