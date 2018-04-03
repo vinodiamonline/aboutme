@@ -12,16 +12,16 @@ TBD
 
 Experience:
 - Sr Manager at Adobe Systems India Pvt Ltd : Feb 2006 - Present
-- - Building Adobe Cloud Platform from last few years as part of engineering leadership team. Prior to that, I was part of engineering team of various products such as  Adobe Campaign, Adobe Social and Adobe Connect.
+  - Building Adobe Cloud Platform from last few years as part of engineering leadership team. Prior to that, I was part of engineering team of various products such as  Adobe Campaign, Adobe Social and Adobe Connect.
 
 - Software Engineer at Quark Media House India, Punjab : June 2004 - Jan 2006
-- - Responsible for the development of Sample XTensions in the Quark XTension Development Kit.
+  - Responsible for the development of Sample XTensions in the Quark XTension Development Kit.
 
 - Junior Programmer at Beehive Systems : Mar 2004 - May 2004
-- - Implemented tooltip functionality throughout the Edit module of the product Digi’newz.
+  - Implemented tooltip functionality throughout the Edit module of the product Digi’newz.
 
 - Assistant consultant at Technosys Services : May 2003 - Feb 2004
-- - Designed and implemented templates and shape drawing in VC++ 6.0.
+  - Designed and implemented templates and shape drawing in VC++ 6.0.
 
 Education:
 - PGPM : Sunstone Business School : 2004 - 2005
