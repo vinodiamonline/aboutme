@@ -1,17 +1,19 @@
 Vinod Kumar
 ===========
-Working as Sr Manager in Adobe Cloud Platform (https://www.adobe.com/in/enterprise/cloud-platform.html) Team at Adobe Systems, to build services for Data Ingestion, ETL, Query Service and Data Quality.
+Working as Sr Manager, Engineering in Adobe Cloud Platform (https://www.adobe.com/in/enterprise/cloud-platform.html) Team at Adobe Systems, to build services for Data Ingestion, ETL, Query Service and Data Quality.
 
 Skills:
-- Concepts : #Data Quality, #Compute, #ETL, #ChaosEngineering, #REST #Hadoop
-- Tools & Technologies : #JAVA #ApacheSpark, #OpenTSDB, #NewRelic
-- PaaS : #Azure (ADF, ADL, Azure Blob, Azure Event Hub)
+- Concepts : #Hadoop #Data Quality, #ETL, #ChaosEngineering, #REST 
+- Tools & Technologies : #Java #ApacheSpark, #RabbitMQ, #NewRelic, #AndroidDevelopment
+- PaaS : #Azure (ADF, ADL, Azure Blob)
 
 Projects:
-TBD
+Adobe Cloud Platform : This project helps customers centralise and standardise data and content from any system to improve the design and delivery of customer experiences. The platform makes its data, content and insights available through APIs to partners and third-party developers. It's consists of Data Ingestion, Data Lake + Data Science + Data Visualization, all delivered in the form of API's.
+Tools and Technology used: Java, Apache Spark, Azure, 
+
 
 Experience:
-- Sr Manager at Adobe Systems India Pvt Ltd : Feb 2006 - Present
+- Sr Manager, Engineering at Adobe Systems India Pvt Ltd : Feb 2006 - Present
   - Building Adobe Cloud Platform from last few years as part of engineering leadership team. Prior to that, I was part of engineering team of various products such as  Adobe Campaign, Adobe Social and Adobe Connect.
 
 - Software Engineer at Quark Media House India, Punjab : June 2004 - Jan 2006
