@@ -1,6 +1,6 @@
 Vinod Kumar
 ===========
-Working as Computer Scientist - 2 in a product known as Adobe Connect.
+Working as Senior Computer Scientist (full stack dev) in a product known as Adobe Connect.
 
 Technology: 
 Java & React
